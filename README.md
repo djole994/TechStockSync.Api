@@ -1,0 +1,1 @@
+# TechStockSync.Api
